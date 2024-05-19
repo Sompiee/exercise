@@ -4,7 +4,7 @@ print(message)
 message = "Hello Python Crash Course World!"
 print(message) 
 
-cacca = "cacca puzza"
+gelato = "gelato buono"
 print(cacca)
 
 #2-3
