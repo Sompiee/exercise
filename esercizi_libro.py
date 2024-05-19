@@ -5,7 +5,7 @@ message = "Hello Python Crash Course World!"
 print(message) 
 
 gelato = "gelato buono"
-print(cacca)
+print(gelato)
 
 #2-3
 nome="Eric"
